@@ -1,0 +1,26 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Galactic Strategy Dashboard",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_cf9a6e85-b333-4b26-b29c-d2b759be96b3-ip4byNeeZnAy0TB11SryaZUfcHnTZs",
+    "homeUrl": "https://forgot-shore-808.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_cf9a6e85-b333-4b26-b29c-d2b759be96b3-ip4byNeeZnAy0TB11SryaZUfcHnTZs",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Galactic Strategy Dashboard",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_cf9a6e85-b333-4b26-b29c-d2b759be96b3-ip4byNeeZnAy0TB11SryaZUfcHnTZs"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
